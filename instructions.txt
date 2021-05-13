@@ -1,0 +1,8 @@
+add little foor to ROLI dashboard first
+
+https://github.com/WeAreROLI/Littlefoot-Examples/tree/5d95c546881db10b0fc02436eb3a3ec51c3915af
+
+add custom interface codes for op-z into:
+Documents-ROLI-LittleFoot-Dynamic 
+
+open MIDI map files with MIDIfire app
